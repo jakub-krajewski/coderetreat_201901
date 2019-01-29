@@ -6,3 +6,4 @@ RetreatTests/obj/*
 .vs/CodeRetreat/DesignTimeBuild/.dtbcache
 .vs/
 Tests/obj/
+Tests/bin/
