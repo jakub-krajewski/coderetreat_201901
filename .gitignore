@@ -1,1 +1,8 @@
 packages/*
+CodeRetreat/obj/*
+CodeRetreat/bin/*
+RetreatTests/bin/*
+RetreatTests/obj/*
+.vs/CodeRetreat/DesignTimeBuild/.dtbcache
+.vs/
+Tests/obj/
